@@ -9,8 +9,6 @@ want a feature, jump to [Reporting bugs and suggestions](#reporting-bugs-and-sug
 
 https://maplesims.enroy.space/
 
-![MapleSims home screen](images/01-home.png)
-
 ## Contents
 
 - [Coming soon](#coming-soon)
