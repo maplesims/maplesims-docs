@@ -9,8 +9,7 @@ there: experience per hour, kills per hour, damage per skill, potion use and mor
 ## Documentation
 
 - [User guide](https://github.com/maplesims/maplesims-docs/wiki/User-Guide): a step-by-step walkthrough with screenshots
-- [Coming soon](https://github.com/maplesims/maplesims-docs/wiki/Coming-Soon): features in progress or planned
-- [Project board](https://github.com/orgs/maplesims/projects/1): what the team is working on
+- [Project board](https://github.com/orgs/maplesims/projects/1): features in progress or planned
 
 ## Found a bug or have an idea?
 
