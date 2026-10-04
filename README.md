@@ -6,8 +6,6 @@ there: experience per hour, kills per hour, damage per skill, potion use and mor
 
 **Try it: <https://maplesims.enroy.space/>**
 
-![MapleSims results screen](images/08-results.png)
-
 ## Documentation
 
 - [User guide](https://github.com/maplesims/maplesims-docs/wiki/User-Guide): a step-by-step walkthrough with screenshots
